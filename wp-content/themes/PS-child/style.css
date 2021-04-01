@@ -1,0 +1,114 @@
+/* 
+ Theme Name:   PS child
+ Theme URI:    #
+ Description:  Child theme for PS
+ Author:       Mohammed
+ Author URI:   #
+ Template:     ps
+ Version:      1.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+
+ /* == Add your own styles below this line ==
+--------------------------------------------*/
+
+.av-language-switch-item {
+  display: none;
+}
+
+.frontpage-arrow .av-extra-border-inner {background-color: #932f2d !important;}
+
+#header_main {border-bottom-width: 0 !important;}
+
+.blog-author {display: none !important;}
+
+/*----------------------------------------
+// CSS -  Magazine Thumbnail size
+//--------------------------------------*/
+
+#top .av-magazine-entry-small .av-magazine-thumbnail {    
+    margin: 0 15px 15px 0;
+    width: 150px;
+    min-height: 100px;
+}
+
+#top .av-magazine-entry-small .av-magazine-thumbnail img {
+    width: 150px;
+    max-height: 100px;
+}
+
+/* Thumbnail width in mobile */
+@media only screen and (max-width: 768px) {
+#top .av-magazine-entry-small .av-magazine-thumbnail {    
+    margin: 0 10px 10px 0;
+    width: 75px;
+    min-height: 50px;
+}
+
+#top .av-magazine-entry-small .av-magazine-thumbnail img {
+    width: 75px;
+    max-height: 50px;
+}
+}
+
+/*Full width for masonry on front-page*/
+.full-mason .container { max-width: 100% !important; width: 100% !important; padding: 2em; margin: 0; }
+
+
+.av-magazine-thumbnail img {
+    width: 100%;
+}
+
+
+
+/*RTL for Magazine element
+
+.rtl .av-magazine-hero-left.av-magazine-top-bar-active .flex_column {
+    float: right;
+    border-left: none;
+}
+
+.rtl .av-magazine .av-magazine-sideshow.av_one_half {
+    margin-left: 0;
+    padding-left: 0;
+    margin-right: 3%;
+    padding-right: 3%;
+    border-right-width: 1px;
+    border-right-style: solid;
+}
+.rtl .av-magazine-thumbnail {
+    float: right;
+    margin-right: 0;
+    margin-left: 15px;
+}
+.rtl .av-magazine-hero-left .av-magazine-hero .av-magazine-content-wrap { 
+	clear: both;}*/
+
+.rtl div.magazine-thumbnail {
+        float: right;
+}
+
+.rtl div.av-magazine-hero.first.flex_column.av_one_half {
+        float: right;
+        clear: right;
+}
+
+.rtl div.av-magazine-sideshow.flex_column.av_one_half {
+        border-right-width: 1px;
+        border-right-style: solid;
+        border-left-width: 0;
+        margin-left: 0
+
+}
+
+.rtl div.av-magazine-thumbnail {
+        float: right;
+        margin-left: 15px;
+}
+
+.rtl a.av-magazine-top-heading {
+        float: right;
+}
+.rtl .av-magazine .av-magazine-content-wrap .av-magazine-title {
+    margin-bottom: 10px;
+}
