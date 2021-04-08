@@ -9,7 +9,7 @@
 
 <channel>
 	<title>THE RECORD</title>
-	<atom:link href="https://psrecord.github.io/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://psrecord.github.io/feed" rel="self" type="application/rss+xml" />
 	<link>https://psrecord.github.io</link>
 	<description>Updates on Normalisations Measures in the GCC</description>
 	<lastBuildDate>Wed, 07 Apr 2021 10:21:35 +0000</lastBuildDate>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=5.7</generator>
 	<item>
 		<title>Israel Defence: Israel Aerospace Industries participate in Dubai Cybertech Global conference and exhibition</title>
-		<link>https://psrecord.github.io/2021/04/07/israel-defence-israel-aerospace-industries-participate-in-dubai-cybertech-global-conference-and-exhibition/</link>
+		<link>https://psrecord.github.io/archives/2156</link>
 		
 		<dc:creator><![CDATA[kheditor]]></dc:creator>
 		<pubDate>Wed, 07 Apr 2021 10:21:35 +0000</pubDate>
@@ -41,7 +41,7 @@
 			</item>
 		<item>
 		<title>Cybertech Global: Founded in Israel, conference held in the UAE for the first time</title>
-		<link>https://psrecord.github.io/2021/04/07/cybertech-global-founded-in-israel-conference-held-in-the-uae-for-the-first-time/</link>
+		<link>https://psrecord.github.io/archives/2151</link>
 		
 		<dc:creator><![CDATA[kheditor]]></dc:creator>
 		<pubDate>Wed, 07 Apr 2021 10:17:59 +0000</pubDate>
@@ -61,7 +61,7 @@
 			</item>
 		<item>
 		<title>&#8220;Israel in the Gulf&#8221;: Lahen Coffee Shop, Abu Dhabi, stocks beans from Israel</title>
-		<link>https://psrecord.github.io/2021/04/07/israel-in-the-gulf-lahen-coffee-shop-abu-dhabi-stocks-beans-from-israel/</link>
+		<link>https://psrecord.github.io/archives/2146</link>
 		
 		<dc:creator><![CDATA[kheditor]]></dc:creator>
 		<pubDate>Wed, 07 Apr 2021 10:10:25 +0000</pubDate>
@@ -79,7 +79,7 @@
 			</item>
 		<item>
 		<title>The Jerusalem Post: Prominent Bahraini artist shows work at Haifa biennale</title>
-		<link>https://psrecord.github.io/2021/04/07/the-jerusalem-post-prominent-bahraini-artist-shows-work-at-haifa-biennale/</link>
+		<link>https://psrecord.github.io/archives/2140</link>
 		
 		<dc:creator><![CDATA[kheditor]]></dc:creator>
 		<pubDate>Wed, 07 Apr 2021 10:06:22 +0000</pubDate>
@@ -95,7 +95,7 @@
 			</item>
 		<item>
 		<title>Zawya: The first UAE-Israel healthcare workshop</title>
-		<link>https://psrecord.github.io/2021/04/07/zawya-the-first-uae-israel-healthcare-workshop/</link>
+		<link>https://psrecord.github.io/archives/2128</link>
 		
 		<dc:creator><![CDATA[kheditor]]></dc:creator>
 		<pubDate>Wed, 07 Apr 2021 09:57:31 +0000</pubDate>
@@ -115,7 +115,7 @@
 			</item>
 		<item>
 		<title>Israel Ministry of Foreign Affairs: Two years after invitation, Israel pavilion at Dubai Expo is being built</title>
-		<link>https://psrecord.github.io/2021/04/07/israel-ministry-of-foreign-affairs-two-years-after-invitation-israel-pavilion-at-dubai-expo-is-being-built/</link>
+		<link>https://psrecord.github.io/archives/2123</link>
 		
 		<dc:creator><![CDATA[kheditor]]></dc:creator>
 		<pubDate>Wed, 07 Apr 2021 09:49:52 +0000</pubDate>
@@ -137,7 +137,7 @@
 			</item>
 		<item>
 		<title>Gulf News: Ambassador of the UAE to Israel: Emirates and Air Arabia airlines to start flights to Israel soon</title>
-		<link>https://psrecord.github.io/2021/04/07/gulf-news-ambassador-of-the-uae-to-israel-emirates-and-air-arabia-airlines-to-start-flights-to-israel-soon/</link>
+		<link>https://psrecord.github.io/archives/2118</link>
 		
 		<dc:creator><![CDATA[kheditor]]></dc:creator>
 		<pubDate>Wed, 07 Apr 2021 09:43:32 +0000</pubDate>
@@ -156,7 +156,7 @@
 			</item>
 		<item>
 		<title>Haaretz: Israel and UAE &#8220;Shared Intel&#8221; on Hezbollah Cyberattack</title>
-		<link>https://psrecord.github.io/2021/04/07/haaretz-israel-and-uae-shared-intel-on-hezbollah-cyberattack/</link>
+		<link>https://psrecord.github.io/archives/2113</link>
 		
 		<dc:creator><![CDATA[kheditor]]></dc:creator>
 		<pubDate>Wed, 07 Apr 2021 09:42:29 +0000</pubDate>
@@ -174,7 +174,7 @@
 			</item>
 		<item>
 		<title>The Jerusalem Post: UAE-based &#8216;Abrahamic Business Circle&#8217; awards Israeli Medical Charity</title>
-		<link>https://psrecord.github.io/2021/04/07/the-jerusalem-post-uae-based-abrahamic-business-circle-awards-israeli-medical-charity/</link>
+		<link>https://psrecord.github.io/archives/2105</link>
 		
 		<dc:creator><![CDATA[kheditor]]></dc:creator>
 		<pubDate>Wed, 07 Apr 2021 09:32:35 +0000</pubDate>
@@ -193,7 +193,7 @@
 			</item>
 		<item>
 		<title>Emirates News Agency : UAE ambassador to Israel arrives in Tel Aviv on inaugural Ettihad airlines flight from Abu Dhabi.</title>
-		<link>https://psrecord.github.io/2021/04/07/emirates-news-agency-uae-ambassador-to-israel-arrives-in-tel-aviv-on-inaugural-ettihad-airlines-flight-from-abu-dhabi/</link>
+		<link>https://psrecord.github.io/archives/2093</link>
 		
 		<dc:creator><![CDATA[kheditor]]></dc:creator>
 		<pubDate>Wed, 07 Apr 2021 09:26:51 +0000</pubDate>

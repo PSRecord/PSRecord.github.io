@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments on: Contact Us	</title>
-	<atom:link href="https://psrecord.github.io/contact-2/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://psrecord.github.io/contact-2/feed" rel="self" type="application/rss+xml" />
 	<link>https://psrecord.github.io</link>
 	<description>Updates on Normalisations Measures in the GCC</description>
 	<lastBuildDate>Sat, 03 Apr 2021 14:25:51 +0000</lastBuildDate>
