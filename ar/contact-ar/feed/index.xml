@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	التعليقات على: تواصل معنا	</title>
-	<atom:link href="/ar/contact-ar/feed/" rel="self" type="application/rss+xml" />
-	<link>/ar/</link>
+	<atom:link href="/ar/contact-ar/feed" rel="self" type="application/rss+xml" />
+	<link>/ar</link>
 	<description>Updates on Normalisations Measures in the GCC &#124; التحديثات على إجراءات التطبيع في دول مجلس التعاون الخليجي</description>
 	<lastBuildDate>Sat, 03 Apr 2021 14:24:10 +0000</lastBuildDate>
 	<sy:updatePeriod>
