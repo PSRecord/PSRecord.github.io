@@ -12,7 +12,7 @@
 	<atom:link href="/ar/%D9%81%D8%A6%D8%A9/%D8%B7%D8%A7%D9%82%D8%A9/feed/" rel="self" type="application/rss+xml" />
 	<link>/ar/</link>
 	<description>Updates on Normalisations Measures in the GCC &#124; التحديثات على إجراءات التطبيع في دول مجلس التعاون الخليجي</description>
-	<lastBuildDate>Sat, 27 Mar 2021 21:18:44 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 07 Apr 2021 09:36:17 +0000</lastBuildDate>
 	<language>ar</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,13 +20,45 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7</generator>
 	<item>
+		<title>الشرق الاوسط: سفير الإمارات لدى إسرائيل يصل إلى تل أبيب على متن أول رحلة لطيران الاتحاد من أبوظبي</title>
+		<link>/ar/2021/04/07/%d8%a7%d9%84%d8%b4%d8%b1%d9%82-%d8%a7%d9%84%d8%a7%d9%88%d8%b3%d8%b7-%d8%b3%d9%81%d9%8a%d8%b1-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa-%d9%84%d8%af%d9%89-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a/</link>
+		
+		<dc:creator><![CDATA[kheditor]]></dc:creator>
+		<pubDate>Wed, 07 Apr 2021 09:29:09 +0000</pubDate>
+				<category><![CDATA[الأمن والعسكر]]></category>
+		<category><![CDATA[الإمارات العربية المتحدة]]></category>
+		<category><![CDATA[تجارة]]></category>
+		<category><![CDATA[تعليم]]></category>
+		<category><![CDATA[تكنولوجيا]]></category>
+		<category><![CDATA[تمويل]]></category>
+		<category><![CDATA[ثقافة]]></category>
+		<category><![CDATA[رياضة]]></category>
+		<category><![CDATA[سياحة]]></category>
+		<category><![CDATA[طاقة]]></category>
+		<category><![CDATA[علاقات دبلوماسية]]></category>
+		<category><![CDATA[غير مصنف]]></category>
+		<category><![CDATA[قانون دولي]]></category>
+		<category><![CDATA[مجلس التعاون الخليجي]]></category>
+		<category><![CDATA[موانئ وشحن]]></category>
+		<category><![CDATA[ميديا]]></category>
+		<category><![CDATA[نقل جوي]]></category>
+		<guid isPermaLink="false">/?p=2098</guid>
+
+					<description><![CDATA[https://aawsat.com/home/article/2904486/السفير-الإماراتي-يصل-إلى-تل-أبيب]]></description>
+										<content:encoded><![CDATA[<p><a href="https://aawsat.com/home/article/2904486/السفير-الإماراتي-يصل-إلى-تل-أبيب">https://aawsat.com/home/article/2904486/السفير-الإماراتي-يصل-إلى-تل-أبيب</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>&#8220;خليج تايمز&#8221; : تعاون بين الإمارات وإسرائيل في مجال &#8220;التكنولوجيا الخضراء&#8221;</title>
 		<link>/ar/2021/03/27/%d8%ae%d9%84%d9%8a%d8%ac-%d8%aa%d8%a7%d9%8a%d9%85%d8%b2-%d8%aa%d8%b9%d8%a7%d9%88%d9%86-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa-%d9%88%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6/</link>
 		
 		<dc:creator><![CDATA[saeditor]]></dc:creator>
 		<pubDate>Sat, 27 Mar 2021 21:18:44 +0000</pubDate>
 				<category><![CDATA[الإمارات العربية المتحدة]]></category>
-		<category><![CDATA[التكنولوجية]]></category>
+		<category><![CDATA[تكنولوجيا]]></category>
 		<category><![CDATA[طاقة]]></category>
 		<guid isPermaLink="false">/?p=1638</guid>
 
@@ -43,18 +75,18 @@
 		
 		<dc:creator><![CDATA[saeditor]]></dc:creator>
 		<pubDate>Thu, 25 Mar 2021 10:13:08 +0000</pubDate>
-				<category><![CDATA[الأمن والجيش]]></category>
+				<category><![CDATA[الأمن والعسكر]]></category>
 		<category><![CDATA[الإمارات العربية المتحدة]]></category>
-		<category><![CDATA[التكنولوجية]]></category>
-		<category><![CDATA[الدبلوماسية]]></category>
-		<category><![CDATA[السياحة]]></category>
-		<category><![CDATA[الموانئ والشحن]]></category>
 		<category><![CDATA[تجارة]]></category>
 		<category><![CDATA[تعليم]]></category>
+		<category><![CDATA[تكنولوجيا]]></category>
 		<category><![CDATA[تمويل]]></category>
 		<category><![CDATA[رياضة]]></category>
+		<category><![CDATA[سياحة]]></category>
 		<category><![CDATA[طاقة]]></category>
-		<category><![CDATA[وسائل الاتصال]]></category>
+		<category><![CDATA[علاقات دبلوماسية]]></category>
+		<category><![CDATA[موانئ وشحن]]></category>
+		<category><![CDATA[ميديا]]></category>
 		<guid isPermaLink="false">/?p=1446</guid>
 
 					<description><![CDATA[Tweets by UAEinIsrael]]></description>
@@ -70,14 +102,14 @@
 		
 		<dc:creator><![CDATA[saeditor]]></dc:creator>
 		<pubDate>Thu, 25 Mar 2021 08:29:02 +0000</pubDate>
-				<category><![CDATA[الأمن والجيش]]></category>
+				<category><![CDATA[الأمن والعسكر]]></category>
 		<category><![CDATA[الإمارات العربية المتحدة]]></category>
 		<category><![CDATA[البحرين]]></category>
-		<category><![CDATA[الدبلوماسية]]></category>
-		<category><![CDATA[الموانئ والشحن]]></category>
 		<category><![CDATA[تمويل]]></category>
 		<category><![CDATA[طاقة]]></category>
+		<category><![CDATA[علاقات دبلوماسية]]></category>
 		<category><![CDATA[مجلس التعاون الخليجي]]></category>
+		<category><![CDATA[موانئ وشحن]]></category>
 		<guid isPermaLink="false">/?p=1417</guid>
 
 					<description><![CDATA[https://www.bloomberg.com/opinion/articles/2021-03-18/new-alliances-link-gulf-arab-states-to-the-eastern-mediterranean]]></description>

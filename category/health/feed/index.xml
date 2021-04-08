@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Health &#8211; THE RECORD</title>
+	<title>Health &#8211; THE RECORD | الســــــجـــــــل</title>
 	<atom:link href="/category/health/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
-	<description>Updates on Normalisations Measures in the GCC</description>
-	<lastBuildDate>Wed, 24 Mar 2021 10:17:59 +0000</lastBuildDate>
+	<description>Updates on Normalisations Measures in the GCC &#124; التحديثات على إجراءات التطبيع في دول مجلس التعاون الخليجي</description>
+	<lastBuildDate>Wed, 07 Apr 2021 09:57:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,26 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7</generator>
 	<item>
+		<title>Zawya: The first UAE-Israel healthcare workshop</title>
+		<link>/2021/04/07/zawya-the-first-uae-israel-healthcare-workshop/</link>
+		
+		<dc:creator><![CDATA[kheditor]]></dc:creator>
+		<pubDate>Wed, 07 Apr 2021 09:57:31 +0000</pubDate>
+				<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Diplomatic]]></category>
+		<category><![CDATA[Health]]></category>
+		<category><![CDATA[Trade]]></category>
+		<category><![CDATA[UAE]]></category>
+		<guid isPermaLink="false">/?p=2128</guid>
+
+					<description><![CDATA[https://www.zawya.com/mena/en/press-releases/story/The_first_UAEIsrael_healthcare_workshop-ZAWYA20210401041008/]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.zawya.com/mena/en/press-releases/story/The_first_UAEIsrael_healthcare_workshop-ZAWYA20210401041008/">https://www.zawya.com/mena/en/press-releases/story/The_first_UAEIsrael_healthcare_workshop-ZAWYA20210401041008/</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Jerusalem Post: Israel, Bahrain enter their first medical cooperation initiative</title>
 		<link>/2021/03/24/jerusalem-post-israel-bahrain-enter-their-first-medical-cooperation-initiative/</link>
 		
